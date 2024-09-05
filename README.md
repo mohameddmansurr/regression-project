@@ -13,10 +13,6 @@
 ## Introduction
 This project uses machine learning models to predict player ratings based on various features from a dataset. It employs several regression algorithms, including Linear Regression, Random Forest, and XGBoost, to compare performance and accuracy.
 
-## Project Structure
-project_root/ │ ├── data/ # Contains dataset(s) ├── notebooks/ # Jupyter Notebooks for data exploration ├── src/ # Main source code ├── models/ # Pre-trained models (optional) ├── images/ # Images for README or visualization ├── requirements.txt # Required packages └── README.md # Project documentation
-
-
 ## Installation
 1. Clone the repository:
     ```bash
