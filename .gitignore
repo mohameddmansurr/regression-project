@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large datasets
+data/*.csv
+
+# Ignore trained models
+models/*.pkl
